@@ -34,23 +34,6 @@
 
 ---
 
-## 📁 Structure
-
-```
-SSLuxury/
-├── images/
-│   └── SSLuxury.png
-├── videos/
-│   └── SSLuxury.mp4
-├── index.html
-├── style.css
-├── script.js
-├── projects.json
-└── README.md
-```
-
----
-
 ## 🚀 Démarrage rapide
 
 1. Clone ce dépôt :
@@ -60,24 +43,12 @@ git clone https://github.com/Amine-Ka/SSLuxury.git
 cd SSLuxury
 ```
 
-2. Ouvre `index.html` dans ton navigateur.
-
-✅ Aucun build requis. 100% HTML/CSS/JS natif.
-
----
-
-## 📸 Capture d'écran
-
-![Aperçu interface](images/SSLuxury/SSLuxury.png)
-
----
-
 ## 👤 Auteur
 
 **Amine Kadri**  
 🎓 Étudiant en informatique passionné de développement web & mobile  
-🌐 [Portfolio Maison Istanbul](https://maison-istanbul.com)  
-📧 amine.kadri@example.com
+🌐 [Portfolio](Https://Kadriamine.com/)
+📧 info@kadriamine.com
 
 ---
 
