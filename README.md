@@ -42,6 +42,11 @@
 git clone https://github.com/Amine-Ka/SSLuxury.git
 cd SSLuxury
 ```
+### 🎥 Téléchargement
+
+> 📽️ [Télécharger](https://www.kadriamine.com/images/SSLuxury/Prototype%20SSLuxury.zip)
+
+---
 
 ## 👤 Auteur
 
