@@ -17,7 +17,6 @@
 ## 🖼️ Aperçu
 
 ### 🎥 Vidéo de démonstration
-![Video Preview](Https://Kadriamine.com/images/SSLuxury/SSLuxury.png)
 
 > 📽️ [Voir la vidéo](Https://Kadriamine.com/videos/SSLuxury/SSLuxury.mp4)
 
